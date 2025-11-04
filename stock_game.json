@@ -1,0 +1,55 @@
+{
+    "stocks": {
+        "TATA": 157.47,
+        "RELIANCE": 78.63,
+        "MARUTI": 25.28,
+        "TESLA": 259.94
+    },
+    "players": {
+        "ARKAANSH": {
+            "cash": 23.100000000000023,
+            "holdings": {
+                "TATA": 85,
+                "RELIANCE": 0,
+                "MARUTI": 0,
+                "TESLA": 0
+            }
+        },
+        "ABHINAV": {
+            "cash": 11825.800000000001,
+            "holdings": {
+                "TATA": 0,
+                "RELIANCE": 0,
+                "MARUTI": 0,
+                "TESLA": 0
+            }
+        },
+        "SAMANYU": {
+            "cash": 852.0,
+            "holdings": {
+                "TATA": 0,
+                "RELIANCE": 0,
+                "MARUTI": 400,
+                "TESLA": 0
+            }
+        },
+        "SARASIJ": {
+            "cash": 288.0800000000007,
+            "holdings": {
+                "TATA": 2,
+                "RELIANCE": 0,
+                "MARUTI": 20,
+                "TESLA": 30
+            }
+        },
+        "ARYAMAAN": {
+            "cash": 151.40999999999985,
+            "holdings": {
+                "TATA": 20,
+                "RELIANCE": 87,
+                "MARUTI": 0,
+                "TESLA": 0
+            }
+        }
+    }
+}
